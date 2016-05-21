@@ -1,0 +1,16 @@
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\bin\Debug\pasifiklib.dll
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\bin\Debug\pasifiklib.pdb
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\bin\Debug\autocompletemenu.dll
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\bin\Debug\autocompletemenu.pdb
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.csprojResolveAssemblyReference.cache
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.forms.AboutForm.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.forms.AddressbookForm.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.forms.ExcelFileForm.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.forms.LoginForm.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.forms.MainForm.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.forms.ReportForm.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.forms.SMSTemplatesForm.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.Properties.Resources.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.csproj.GenerateResource.Cache
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.dll
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\pasifiklib\obj\Debug\pasifiklib.pdb

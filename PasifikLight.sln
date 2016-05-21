@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasifikLight", "PasifikLight\PasifikLight.csproj", "{EB46175C-4743-4231-8200-D9B27440CEA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pasifiklib", "pasifiklib\pasifiklib.csproj", "{5BA74FA8-469D-4E11-8851-D3A1734E91FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autocompletemenu", "autocompletemenu\autocompletemenu.csproj", "{B4F92883-104C-4C4E-AB20-D252452F53E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB46175C-4743-4231-8200-D9B27440CEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB46175C-4743-4231-8200-D9B27440CEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB46175C-4743-4231-8200-D9B27440CEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB46175C-4743-4231-8200-D9B27440CEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA74FA8-469D-4E11-8851-D3A1734E91FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA74FA8-469D-4E11-8851-D3A1734E91FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA74FA8-469D-4E11-8851-D3A1734E91FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA74FA8-469D-4E11-8851-D3A1734E91FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F92883-104C-4C4E-AB20-D252452F53E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F92883-104C-4C4E-AB20-D252452F53E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F92883-104C-4C4E-AB20-D252452F53E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F92883-104C-4C4E-AB20-D252452F53E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

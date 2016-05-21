@@ -1,0 +1,12 @@
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\bin\Debug\PasifikLight.exe.config
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\bin\Debug\PasifikLight.exe
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\bin\Debug\PasifikLight.pdb
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\bin\Debug\pasifiklib.dll
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\bin\Debug\autocompletemenu.dll
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\bin\Debug\pasifiklib.pdb
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\bin\Debug\autocompletemenu.pdb
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\obj\Debug\PasifikLight.csprojResolveAssemblyReference.cache
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\obj\Debug\PasifikLight.Properties.Resources.resources
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\obj\Debug\PasifikLight.csproj.GenerateResource.Cache
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\obj\Debug\PasifikLight.exe
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\PasifikLight\obj\Debug\PasifikLight.pdb

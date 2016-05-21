@@ -1,0 +1,5 @@
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\autocompletemenu\bin\Debug\autocompletemenu.dll
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\autocompletemenu\bin\Debug\autocompletemenu.pdb
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\autocompletemenu\obj\Debug\autocompletemenu.csprojResolveAssemblyReference.cache
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\autocompletemenu\obj\Debug\autocompletemenu.dll
+C:\Users\Pasifik\documents\visual studio 2013\Projects\PasifikLight\autocompletemenu\obj\Debug\autocompletemenu.pdb
